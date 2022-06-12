@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765050443956",
+    "project_id": "my-flutter-project-4d942",
+    "storage_bucket": "my-flutter-project-4d942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765050443956:android:cd38b9f141405dfecf1fe1",
+        "android_client_info": {
+          "package_name": "com.example.scar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765050443956-idpqcgt8mg5vo1ek9nj4s5l7t5opd0mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OO0A7kM2XfONo5sWUZUYfLfAxckylKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765050443956-idpqcgt8mg5vo1ek9nj4s5l7t5opd0mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
