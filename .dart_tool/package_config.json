@@ -38,6 +38,24 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "cloud_firestore",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_platform_interface-5.5.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.6.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "collection",
       "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0",
       "packageUri": "lib/",
@@ -56,6 +74,24 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_core",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/src/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -72,6 +108,18 @@
       "rootUri": "file:///C:/src/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/src/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
     },
     {
       "name": "lints",
@@ -106,6 +154,12 @@
     {
       "name": "path",
       "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -164,7 +218,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-06-12T10:06:30.637465Z",
+  "generated": "2022-06-12T13:23:36.721631Z",
   "generator": "pub",
   "generatorVersion": "2.17.1"
 }
